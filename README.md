@@ -1,2 +1,1 @@
-# Supermarket-Management-System
-This Supermarket Management System is a JavaFX-based application with a MySQL database backend, designed to streamline supermarket operations. It allows users to efficiently manage products adding, editing, and deleting items and handle customer orders with ease. With an intuitive and interactive GUI, the system ensures smooth inventory tracking, order processing, and data management.
+
